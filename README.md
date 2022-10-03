@@ -1,2 +1,2 @@
 # image
-github图床。
+自用github图床。
